@@ -14,3 +14,4 @@ Eu sou o Danilo silva, sou um programador Front-End, atualmente estou aprendendo
 
 [![Danilosilva5164's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danilo5164)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danilo5164)](https://github.com/anuraghazra/github-readme-stats)
